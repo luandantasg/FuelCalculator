@@ -21,7 +21,7 @@ class Result : AppCompatActivity() {
         val distance = intent.getFloatExtra("distance",0.0f)
         val result = intent.getFloatExtra("result",0.0f)
 
-        binding.tvResult.text = result.toString()
+        binding.tvResult.text = "$" + result.toString()
         binding.preco.text = gas.toString()
         binding.consumo.text = car.toString()
         binding.distancia.text = distance.toString()
