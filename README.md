@@ -12,26 +12,26 @@ Fuel Calculator é um aplicativo que te ajuda a saber a quantia que vai gastar d
 <img src="https://github.com/user-attachments/assets/66346ff9-d70d-401b-9589-32f45667376f" width=200/>
 
 
-Knowledge Stack
+##Knowledge Stack
 
-Kotlin
-Activity for screen host
-Viewgroup
-Binding
-ConstraintLayout
-UI components
-TextImputLayout
-TextView
-EditText
-Button
-ImageButton
-View
-Error for missing informations
-Intent to open Activity´s
-Intent Flag to clean activity stack
-SetOnClickListener
-String Resource
-Room DataBase
+- Kotlin
+- Activity for screen host
+- Viewgroup
+- Binding
+- ConstraintLayout
+- UI components
+- TextImputLayout
+- TextView
+- EditText
+- Button
+- ImageButton
+- View
+- Error for missing informations
+- Intent to open Activity´s
+- Intent Flag to clean activity stack
+- SetOnClickListener
+- String Resource
+- Room DataBase
 
 
 
