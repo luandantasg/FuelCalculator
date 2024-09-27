@@ -35,7 +35,7 @@ Fuel Calculator é um aplicativo que te ajuda a saber a quantia que vai gastar d
 
 
 
-License
+## License
 
 The MIT License (MIT)
 
