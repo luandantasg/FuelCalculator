@@ -12,7 +12,7 @@ Fuel Calculator é um aplicativo que te ajuda a saber a quantia que vai gastar d
 <img src="https://github.com/user-attachments/assets/66346ff9-d70d-401b-9589-32f45667376f" width=200/>
 
 
-##Knowledge Stack
+## Knowledge Stack
 
 - Kotlin
 - Activity for screen host
